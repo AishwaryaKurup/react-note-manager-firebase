@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyB7aXJ8eiRBEjVLNoc4SxELO7CkWaz4DQk",
+    apiKey: "testKey",
     authDomain: "react-note-manager-98a74.firebaseapp.com",
     projectId: "react-note-manager-98a74",
     storageBucket: "react-note-manager-98a74.firebasestorage.app",
